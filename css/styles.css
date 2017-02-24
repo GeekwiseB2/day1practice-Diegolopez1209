@@ -11,6 +11,16 @@ li {
 
 @media screen and (min-width: 500px) {
   .col-md-3 {
-    background-color: purple;
+    background-color: blue;
+    color:white ;
+      position: relative;
+      left: 40%;
   }
+.name{
+    text-align: center;
+  }
+}
+ul{
+  border: 2px solid black;
+  widows: 200px;
 }
